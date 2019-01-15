@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<translator>
+    <rec id="1">
+        <naziv>Ime</naziv>
+        <sr>Ime</sr>
+        <esp>Nombre</esp>
+    </rec>
+    <rec id="2">
+        <naziv>Prezime</naziv>
+        <sr>Prezime</sr>
+        <esp>Apellido</esp>
+    </rec>
+    <rec id="3">
+        <naziv>Godina</naziv>
+        <sr>Godina</sr>
+        <esp>Table</esp>
+    </rec>
+    <rec id="4">
+        <naziv>Grad</naziv>
+        <sr>Grad</sr>
+        <esp>Ciudad</esp>
+    </rec>
+    <rec id="5">
+        <naziv>Adresa</naziv>
+        <sr>Adresa</sr>
+        <esp>Dirección</esp>
+    </rec>
+</translator>
+
